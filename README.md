@@ -39,6 +39,3 @@ The research examples are preserved for inspection, with their execution depende
 
 The FFT zero-padding arrangement was corrected and figures regenerated. For the ideal circular pupil at the demo settings, the four-times-sampled FWHM is approximately 2.685 micrometers, compared with the paraxial Airy estimate of 2.656 micrometers. This checks the demo's scalar calculation, not an FDTD simulation. Phase mismatch is reported as root-mean-square error.
 
-## Publishing from VS Code
-
-Open this folder (the one containing this README), initialize a Git repository in Source Control, stage the files and commit. Then use **Publish to GitHub**. Choose public for a portfolio visible to reviewers, or private for restricted access. Do not upload the ZIP itself as the project source.
