@@ -1,0 +1,11 @@
+__pycache__/
+.pytest_cache/
+*.pyc
+.venv/
+*.fsp
+*.mat
+*.ldf
+*.h5
+*.hdf5
+*.log
+results/private/
