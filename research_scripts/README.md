@@ -1,6 +1,6 @@
 # Research script examples
 
-These user-provided research scripts are included unchanged (filenames simplified) for code review. They are separate from the standalone numerical demo and are not imported or executed by it.
+These user-provided research scripts are presented as simplified examples adapted from the original research workflows for code review. They are separate from the standalone numerical demo and are not imported or executed by it.
 
 - `metalens_postprocessing_example.py`: Lumerical field extraction, field projection, focal cuts, power integration, exploratory wavefront analysis, and MAT export.
 - `phase_to_sag_example.py`: exploratory phase extraction and an equivalent-sag array export. This does not establish a validated Zemax import workflow.
